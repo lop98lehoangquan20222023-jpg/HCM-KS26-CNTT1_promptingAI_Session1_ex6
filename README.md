@@ -7,6 +7,7 @@
 Khi cốc đầy và bạn tiếp tục nhắn tin, hệ thống sẽ đẩy văng những thông tin cũ nhất ở đáy cốc ra ngoài để lấy chỗ chứa.
  
 - Hậu quả: AI bị "quên" mất thông tin ban đầu và phải hỏi lại bạn.
-3. Cách khắc phục:
+- # Phần 2:
+Cách khắc phục:
 - Về phía người dùng: Tránh trả lời quá dài dòng để tiết kiệm "dung lượng cốc". Khi chuyển sang vấn đề mới hoặc khi chat quá dài, hãy mở phiên chat (New Chat) mới và cung cấp lại thông tin đơn hàng ở câu đầu tiên.
 - Về phía hệ thống: Cài đặt tính năng ghim (Pin) thông tin quan trọng của khách hàng hoặc dùng cơ chế giữ lại dữ liệu giao dịch cốt lõi, không để bị xóa mất.
